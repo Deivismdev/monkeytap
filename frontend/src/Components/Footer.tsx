@@ -11,7 +11,7 @@ const Footer = () => {
         <div className="flex items-center space-x-4 ">
           <div className={`hover:text-text hover:font-bold`}>
             {"</> "}
-            <a href="https://github.com/Deivismdev" target="_blank">
+            <a href="https://github.com/Deivismdev/monkeytap" target="_blank">
               github
             </a>
           </div>
